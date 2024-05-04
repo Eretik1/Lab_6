@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/progects/progect6_2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\main.cpp.obj -c D:\\progects\\progect6_2\\main.cpp",
+  "file": "D:\\progects\\progect6_2\\main.cpp",
+  "output": "CMakeFiles\\multifile.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect6_2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\matrix.cpp.obj -c D:\\progects\\progect6_2\\matrix.cpp",
+  "file": "D:\\progects\\progect6_2\\matrix.cpp",
+  "output": "CMakeFiles\\multifile.dir\\matrix.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect6_2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\convolution.cpp.obj -c D:\\progects\\progect6_2\\convolution.cpp",
+  "file": "D:\\progects\\progect6_2\\convolution.cpp",
+  "output": "CMakeFiles\\multifile.dir\\convolution.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect6_2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\downsampling.cpp.obj -c D:\\progects\\progect6_2\\downsampling.cpp",
+  "file": "D:\\progects\\progect6_2\\downsampling.cpp",
+  "output": "CMakeFiles\\multifile.dir\\downsampling.cpp.obj"
+}
+]
